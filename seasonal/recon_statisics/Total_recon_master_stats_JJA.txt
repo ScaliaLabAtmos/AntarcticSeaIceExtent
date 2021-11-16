@@ -1,0 +1,11 @@
+Master Stats For All Data Layers and Networks.....
+Station_Name          Data_Layer %Network #factors cal r    val r    val r (dt)   RE        CE Best? 
+totalsie Obs All  7    0.7313    0.4457    0.3719    0.4951    0.1056 no
+totalsie Obs 10pct  4    0.7497    0.6129    0.5475    0.5263    0.3208 no
+totalsie SOI 10pct  3    0.7767    0.6200    0.5557    0.5135    0.2949 no
+totalsie Nino3.4 10pct  3    0.7286    0.5849    0.5160    0.4492    0.2512 no
+totalsie Nino4 10pct  1    0.5988    0.5042    0.4228    0.3550    0.2309 no
+totalsie SAM 10pct 11    0.8387    0.7389    0.6858    0.6775    0.4610 no
+totalsie Obs 5pct  7    0.7938    0.7535    0.7268    0.5481    0.4381 yes
+totalsie Obs 2.5pct  1    0.6815    0.6394    0.6003    0.3419    0.2902 no
+totalsie Obs 1pct  3    0.6621    0.5816    0.5122    0.4308    0.3058 no

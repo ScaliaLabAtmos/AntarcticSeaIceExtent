@@ -1,0 +1,16 @@
+Master Stats For All Data Layers and Networks.....
+Station_Name          Data_Layer %Network #factors cal r    val r    val r (dt)   RE        CE Best? 
+Weddell Obs All 22    0.9401    0.7356    0.7087    0.8713    0.5101 yes
+Weddell Obs 10pct 17    0.8797    0.7450    0.7452    0.7548    0.5074 no
+Weddell IPO 10pct 11    0.8579    0.7191    0.7179    0.6970    0.4492 no
+Weddell SOI 10pct  5    0.7530    0.6395    0.6329    0.4675    0.2957 no
+Weddell Nino3.4 10pct 16    0.9096    0.7826    0.7664    0.7266    0.5032 no
+Weddell Nino3 10pct  8    0.8163    0.6311    0.6120    0.6044    0.3454 no
+Weddell Nino4 10pct 16    0.8933    0.7341    0.7107    0.6228    0.3928 no
+Weddell Obs 5pct 10    0.8447    0.7034    0.6936    0.6908    0.4551 no
+Weddell IPO 5pct  4    0.7999    0.7384    0.7304    0.4612    0.3847 no
+Weddell SOI 5pct  4    0.7997    0.7343    0.7205    0.4526    0.3694 no
+Weddell Nino3.4 5pct  4    0.7941    0.7231    0.7093    0.4482    0.3535 no
+Weddell Obs 2.5pct  6    0.8036    0.6988    0.7140    0.5527    0.4073 no
+Weddell IPO 2.5pct  8    0.8236    0.6550    0.6641    0.5082    0.2736 no
+Weddell Obs 1pct  3    0.7628    0.6809    0.7261    0.3891    0.2759 no

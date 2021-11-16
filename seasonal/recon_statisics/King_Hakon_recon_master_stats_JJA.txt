@@ -1,0 +1,14 @@
+Master Stats For All Data Layers and Networks.....
+Station_Name          Data_Layer %Network #factors cal r    val r    val r (dt)   RE        CE Best?  
+King_Hakon Obs All 16    0.8481    0.5742    0.5532    0.6800    0.2594 no
+King_Hakon Obs 10pct  8    0.8137    0.6854    0.6550    0.6320    0.4584 yes
+King_Hakon SOI 10pct 13    0.8410    0.7036    0.6754    0.7063    0.4538 no
+King_Hakon Nino3.4 10pct 12    0.8159    0.6461    0.6146    0.6594    0.3690 no
+King_Hakon Nino3 10pct  3    0.6803    0.5591    0.5290    0.4051    0.2477 no
+King_Hakon Nino4 10pct  3    0.6829    0.5304    0.4926    0.4121    0.2176 no
+King_Hakon SAM 10pct 14    0.8463    0.6291    0.6001    0.6663    0.3490 no
+King_Hakon Obs 5pct  3    0.6952    0.5803    0.5464    0.4807    0.3317 no
+King_Hakon SAM 5pct  2    0.6698    0.5482    0.5210    0.4428    0.2870 no
+King_Hakon Obs 2.5pct  2    0.6541    0.5503    0.5142    0.3220    0.2083 no
+King_Hakon SAM 2.5pct  3    0.7189    0.6118    0.5780    0.4110    0.2887 no
+King_Hakon Obs 1pct  2    0.6041    0.4877    0.4473    0.2460    0.1364 no

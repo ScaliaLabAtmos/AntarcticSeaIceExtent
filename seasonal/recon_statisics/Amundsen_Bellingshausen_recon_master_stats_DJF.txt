@@ -1,0 +1,7 @@
+Master Stats For All Data Layers and Networks.....
+Station_Name          Data_Layer %Network #factors cal r    val r    val r (dt)   RE        CE Best?  
+Bellingshausen-Amundsen_Sea Obs All  7    0.8472    0.7574    0.6345    0.5532    0.4413 no
+Bellingshausen-Amundsen_Sea Obs 10pct 13    0.9024    0.7810    0.6581    0.5254    0.3930 yes
+Bellingshausen-Amundsen_Sea Obs 5pct  1    0.5958    0.4996    0.3712    0.3111    0.2044 no
+Bellingshausen-Amundsen_Sea Obs 2.5pct  2    0.6760    0.5746    0.4715    0.4081    0.2776 no
+Bellingshausen-Amundsen_Sea Obs 1pct  4    0.7377    0.6622    0.5305    0.4335    0.3186 no

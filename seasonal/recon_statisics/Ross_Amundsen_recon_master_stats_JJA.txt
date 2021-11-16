@@ -1,0 +1,27 @@
+Master Stats For All Data Layers and Networks.....
+Station_Name          Data_Layer %Network #factors cal r    val r    val r (dt)   RE        CE Best? 
+Ross Obs All 11    0.8851    0.7750    0.7019    0.6479    0.4296  no
+Ross Obs 10pct  9    0.8970    0.8347    0.7682    0.7658    0.6508 no
+Ross IPO 10pct  6    0.8669    0.8089    0.7392    0.6336    0.5453 no
+Ross PDO 10pct  7    0.8900    0.8339    0.7669    0.7765    0.6774 yes
+Ross SOI 10pct  6    0.8687    0.8097    0.7425    0.7370    0.6374 no
+Ross Nino3.4 10pct  5    0.8527    0.7984    0.7303    0.7208    0.6273 no
+Ross Nino3 10pct 10    0.9054    0.8184    0.7508    0.7572    0.5981 no
+Ross Nino4 10pct  8    0.8828    0.8200    0.7512    0.7480    0.6335 no
+Ross Obs 5pct 22    0.9388    0.8378    0.7707    0.7940    0.6056 no
+Ross IPO 5pct 18    0.9311    0.8281    0.7690    0.7823    0.5925 no
+Ross PDO 5pct 18    0.9238    0.8170    0.7509    0.8322    0.6178 no
+Ross SOI 5pct  7    0.8629    0.7931    0.7219    0.7244    0.6060 no
+Ross Nino3.4 5pct  8    0.8587    0.7959    0.7302    0.7149    0.6037 no
+Ross Nino4 5pct 16    0.9303    0.8570    0.7932    0.8194    0.6709 no
+Ross Obs 2.5pct 10    0.8852    0.8367    0.7699    0.7164    0.6149 no
+Ross IPO 2.5pct  3    0.8181    0.7907    0.7222    0.5823    0.5352 no
+Ross PDO 2.5pct 18    0.9209    0.8522    0.7863    0.7517    0.5611 no
+Ross SOI 2.5pct 21    0.9423    0.8792    0.8212    0.7428    0.6286 no
+Ross Nino3.4 2.5pct 13    0.9238    0.8635    0.7991    0.7935    0.6579 no
+Ross Nino4 2.5pct  5    0.8235    0.7660    0.6962    0.6769    0.5823 no
+Ross Obs 1pct  5    0.8079    0.7376    0.6662    0.5366    0.4196 no
+Ross IPO 1pct  5    0.7991    0.7062    0.6261    0.6155    0.4627 no
+Ross SOI 1pct  7    0.8750    0.8081    0.7504    0.6205    0.5058 no
+Ross Nino3.4 1pct  6    0.8531    0.7819    0.7113    0.7022    0.5895 no
+Ross Nino4 1pct 15    0.9077    0.8416    0.7784    0.7164    0.6170 no

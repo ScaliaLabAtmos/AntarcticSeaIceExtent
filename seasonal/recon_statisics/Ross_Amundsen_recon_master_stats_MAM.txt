@@ -1,0 +1,10 @@
+Master Stats For All Data Layers and Networks.....
+Station_Name          Data_Layer %Network #factors cal r    val r    val r (dt)   RE        CE Best? 
+Ross Obs All  8    0.7762    0.6365    0.6352    0.5867    0.3800 no
+Ross Obs 10pct  9    0.8013    0.6022    0.6277    0.6044    0.3063 no
+Ross IPO 10pct  7    0.7787    0.5549    0.5848    0.5705    0.2512 no
+Ross Nino3.4 10pct 13    0.8524    0.6486    0.6767    0.7254    0.3982 yes
+Ross Nino4 10pct 12    0.8500    0.6862    0.7129    0.7225    0.4389 no
+Ross Obs 5pct  2    0.6387    0.4832    0.4957    0.3709    0.1792 no
+Ross Obs 2.5pct  1    0.6252    0.5614    0.5648    0.3892    0.3109 no
+Ross Obs 1pct  1    0.5334    0.4066    0.5006    0.2083    0.0759 no

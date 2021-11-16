@@ -1,0 +1,8 @@
+Master Stats For All Data Layers and Networks.....
+Station_Name          Data_Layer %Network #factors cal r    val r    val r (dt)   RE        CE Best?  
+East_Antarctica Obs All 20    0.9516    0.8209    0.8186    0.8471    0.6094 yes
+East_Antarctica Obs 10pct 13    0.8863    0.7507    0.7725    0.6987    0.4585 no
+East_Antarctica Nino1.2 10pct  7    0.8281    0.7240    0.7488    0.6803    0.5109 no
+East_Antarctica Obs 5pct 21    0.9337    0.7213    0.7173    0.8632    0.4986 no
+East_Antarctica Obs 2.5pct  8    0.7702    0.6155    0.6160    0.5848    0.3388 no
+East_Antarctica Obs 1pct  2    0.6749    0.5957    0.6807    0.4356    0.3328 no

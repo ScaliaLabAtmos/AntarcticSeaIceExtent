@@ -1,0 +1,22 @@
+Master Stats For All Data Layers and Networks.....
+Station_Name          Data_Layer %Network #factors cal r    val r    val r (dt)   RE        CE Best?  
+Bellingshausen-Amundsen_Sea Obs All 18    0.9488    0.8647    0.8646    0.8890    0.7347 no
+Bellingshausen-Amundsen_Sea Obs 10pct 12    0.9122    0.8402    0.8444    0.7684    0.6407 no
+Bellingshausen-Amundsen_Sea IPO 10pct 11    0.9173    0.8474    0.8525    0.8052    0.6572 no
+Bellingshausen-Amundsen_Sea AMO 10pct  9    0.8982    0.8287    0.8365    0.7461    0.6083 no
+Bellingshausen-Amundsen_Sea SOI 10pct  9    0.9052    0.8510    0.8541    0.7756    0.6572 no
+Bellingshausen-Amundsen_Sea Nino3.4 10pct  9    0.9028    0.8452    0.8479    0.8125    0.7051 yes
+Bellingshausen-Amundsen_Sea Nino3 10pct  8    0.8848    0.8249    0.8283    0.7826    0.6740 no
+Bellingshausen-Amundsen_Sea Nino4 10pct  7    0.8613    0.7878    0.7946    0.7353    0.6114 no
+Bellingshausen-Amundsen_Sea Obs 5pct  9    0.8824    0.8003    0.8145    0.7344    0.5916 no
+Bellingshausen-Amundsen_Sea IPO 5pct 23    0.9622    0.8708    0.8746    0.7194    0.5316 no
+Bellingshausen-Amundsen_Sea AMO 5pct 25    0.9660    0.8548    0.8577    0.8425    0.6368 no
+Bellingshausen-Amundsen_Sea Nino3.4 5pct 12    0.9143    0.8655    0.8655    0.7502    0.6765 no
+Bellingshausen-Amundsen_Sea Nino3 5pct 13    0.9205    0.8842    0.8841    0.7545    0.7004 no
+Bellingshausen-Amundsen_Sea Nino4 5pct  8    0.8686    0.7823    0.7903    0.7433    0.5931 no
+Bellingshausen-Amundsen_Sea Obs 2.5pct  8    0.8824    0.8339    0.8342    0.7556    0.6581 no
+Bellingshausen-Amundsen_Sea IPO 2.5pct  5    0.8365    0.8001    0.8000    0.6911    0.6248 no
+Bellingshausen-Amundsen_Sea Nino3.4 2.5pct 13    0.9373    0.8824    0.8825    0.8026    0.6983 no
+Bellingshausen-Amundsen_Sea Nino4 2.5pct 12    0.9470    0.8970    0.8976    0.8173    0.7350 no
+Bellingshausen-Amundsen_Sea Obs 1pct  4    0.7656    0.6743    0.6809    0.5849    0.4492 no
+Bellingshausen-Amundsen_Sea Nino4 1pct  7    0.7799    0.6768    0.7001    0.6063    0.4383 no

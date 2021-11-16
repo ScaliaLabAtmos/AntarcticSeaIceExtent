@@ -1,0 +1,31 @@
+Master Stats For All Data Layers and Networks.....
+Station_Name          Data_Layer %Network #factors cal r    val r    val r (dt)   RE        CE Best?  
+Ross Obs All 16    0.8951    0.7319    0.7221    0.7978    0.5029 no
+Ross Obs 10pct 20    0.9399    0.7933    0.7821    0.8628    0.5837 no
+Ross IPO 10pct  3    0.7294    0.6207    0.6318    0.4940    0.3310 no
+Ross PDO 10pct 14    0.9021    0.8020    0.7893    0.7419    0.5635 no
+Ross SOI 10pct 14    0.8939    0.7482    0.7346    0.6990    0.3993 no
+Ross Nino1.2 10pct 15    0.9131    0.7843    0.7849    0.6246    0.2866 no
+Ross Nino3.4 10pct 14    0.9032    0.7638    0.7714    0.6668    0.3430 no
+Ross Nino3 10pct 12    0.8865    0.7622    0.7831    0.6335    0.3473 no
+Ross Nino4 10pct 12    0.9034    0.7532    0.7578    0.7271    0.4406 no
+Ross SAM 10pct 16    0.9338    0.8011    0.8153    0.7021    0.4129 no
+Ross Obs 5pct  7    0.8152    0.7112    0.7086    0.4023    0.1982 no
+Ross IPO 5pct  7    0.8000    0.6706    0.6925    0.5354    0.2806 no
+Ross SOI 5pct  9    0.8384    0.6914    0.7379    0.5356    0.2500 no
+Ross Nino3.4 5pct 11    0.8855    0.7512    0.7456    0.6420    0.4117 no
+Ross Nino3 5pct  9    0.8494    0.7352    0.7308    0.6884    0.4897 no
+Ross Nino4 5pct 10    0.8994    0.8158    0.8046    0.7619    0.6114 yes
+Ross SAM 5pct 11    0.9019    0.8320    0.8271    0.7360    0.6051 no
+Ross Obs 2.5pct  4    0.7727    0.6877    0.6797    0.5009    0.3823 no
+Ross IPO 2.5pct  4    0.7693    0.6824    0.6721    0.4677    0.3426 no
+Ross SOI 2.5pct  3    0.6969    0.5059    0.5128    0.4831    0.2316 no
+Ross Nino3.4 2.5pct  9    0.8467    0.7529    0.7400    0.6525    0.4865 no
+Ross Nino3 2.5pct  7    0.7770    0.6900    0.6822    0.5584    0.3731 no
+Ross Nino4 2.5pct  9    0.8302    0.7315    0.7175    0.6881    0.5245 no
+Ross SAM 2.5pct  6    0.8155    0.7221    0.7100    0.6512    0.5119 no
+Ross Obs 1pct  1    0.5344    0.3844    0.4661    0.2536    0.1204 no
+Ross SOI 1pct  3    0.6040    0.4567    0.5866    0.2991    0.1464 no
+Ross Nino3.4 1pct  6    0.6694    0.5375    0.6107    0.3940    0.2298 no
+Ross Nino4 1pct  4    0.6348    0.5330    0.5916    0.3927    0.2737 no
+Ross SAM 1pct  2    0.5898    0.4914    0.5220    0.3446    0.2396 no
