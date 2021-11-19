@@ -5,3 +5,5 @@ Antarctic Sea Ice Extent Reconstructions from Fogt et al. (2021), **A Regime Shi
 Code and Sea Ice Reconstructions and Observation data used in the Fogt et al. (2021) paper
 
 Data Associated with Reconstructions of Antarctic Sea Ice Extent (Monthly, Seasonal) and Concentration (Seasonal)
+
+[here](seasonal)
