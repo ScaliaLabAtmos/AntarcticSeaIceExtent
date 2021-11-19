@@ -19,7 +19,7 @@ This work was supported by the National Science Foundation Office of Polar Progr
 
 Details are available [here](https://app.dimensions.ai/details/grant/grant.7704972).
 
-All correspondence and requests for materials should be addressed to [Ryan Fogt] (mailto:fogtr@ohio.edu).
+All correspondence and requests for materials should be addressed to [Ryan Fogt](mailto:fogtr@ohio.edu).
 
 ### Reference
 
