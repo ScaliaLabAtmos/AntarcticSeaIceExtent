@@ -1,4 +1,5 @@
 <img src="seasonal/Figures/FigREC0.png" width = 400 alt="bayesbackcast Logo"/>
+
 # Antarctic Sea Ice Reconstructions
 
 This is a repository for the code and data used in Fogt et al. (2021), **A Regime Shift in Seasonal Total Antarctic Sea Ice Extent in the 20th Century**, to appear in *Nature Climate Change*.
